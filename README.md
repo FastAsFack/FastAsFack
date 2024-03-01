@@ -8,7 +8,7 @@ I'm currently a student at Rocva for Expert IT Systems & Devices
 
 * 🌍  I'm based in Nederland
 * ✉️  You can contact me at [tijnb@pm.me](mailto:tijnb@pm.me)
-* 🧠  I'm learning Python, Autohotkey
+* 🧠  I'm learning Python, Autohotkey, HTML and CSS
 
 ### Skills
 
