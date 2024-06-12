@@ -1,4 +1,4 @@
-Hi 👋 My name is Tijn Bakker
+Hi 👋 My name is Tijn
 ============================
 
 IT student
